@@ -6,7 +6,7 @@ This repository contains a series of workshops to practice Continuous Delivery F
 
 Here is the list of available hands-on (currently under construction :construction:):
 
-- Data versionning with dvc
+- [Data versionning with dvc](data-versionning-dvc/README.md)
 - Continuous integration of machine learning models with ease.ml/ci
 - Track experiments with mlflow
 - Monitoring and observability with EFK
