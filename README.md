@@ -8,6 +8,7 @@ Here is the list of available hands-on (currently under construction :constructi
 
 - [Data versionning with dvc](data-versionning-dvc/README.md)
 - Continuous integration of machine learning models with ease.ml/ci
+- Deploy machine learning models with Amazon Sagemaker
 - Track experiments with mlflow
 - Monitoring and observability with EFK
 
